@@ -1,2 +1,2 @@
 # EraySahinWebsite
-Pages Repository
+Pages Repository for my Web page
