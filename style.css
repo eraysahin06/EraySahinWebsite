@@ -4,23 +4,19 @@
     box-sizing: border-box;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
 header {
     background-color: rgb(19, 19, 19);
     min-width: 250px;
 }
-
 nav {
     padding-bottom: 10px;
     
 }
-
 nav ul {
     display: flex;
     justify-content: right;
     list-style: none;
 }
-
 .innergo {
     color: rgb(100, 157, 102);
 
@@ -30,7 +26,6 @@ nav ul {
     color: rgb(100, 157, 102);
     text-decoration: underline;
 }
-
 nav ul li a {
     display: block;
     padding: 1em;
@@ -41,12 +36,9 @@ nav ul li a {
     margin-top: 10px;
     color: #000;
 }
-
 nav ul li a:hover {
     background-color: rgb(80, 234, 80);
 }
-
-
 .eray{
     width: 150px;
     margin-top: 20px;
@@ -57,22 +49,16 @@ nav ul li a:hover {
     text-align: center;
     position: absolute;
 }
-
 h1 a {
     text-decoration: none;
     color: #FFF;
 }
-
 h1:hover{
     transform: scale(1.1);
 }
-
 h1 a:hover{
-    color: rgb(80, 234, 80);
-
-    
+    color: rgb(80, 234, 80);  
 }
-
 main {
     min-width: 250px;
     padding: 1em;
